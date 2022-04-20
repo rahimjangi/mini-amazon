@@ -1,2 +1,5 @@
 # mini-amazon
-Implementation of amazon web site with python 'Flask', 'Django', 'MySQL'
+Implementation of amazon web site
+Front end: Angular
+Back end : Flask, Django, Nodejs--Express
+Database: MySql
